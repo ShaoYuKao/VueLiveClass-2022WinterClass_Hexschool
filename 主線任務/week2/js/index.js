@@ -15,7 +15,7 @@ createApp({
           window.location = 'products.html';
         })
         .catch((error) => {
-          alert(error.response.data.message)
+          alert(error.data.message)
           window.location = 'login.html';
         })
     },
