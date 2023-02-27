@@ -9,7 +9,7 @@
 - 在 Vite 中完成登入、前台表單驗證功能
 - 建立 .env 檔案內容
 
-> VITE_API=
+> VITE_API=\
 > VITE_APIPATH=
 
 ***
